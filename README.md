@@ -15,7 +15,7 @@ conda activate environment-name
 ```
 4. Por último correr o código
 ```bash
-python3 script_sample.py
+python script_sample.py
 ```
 
 
